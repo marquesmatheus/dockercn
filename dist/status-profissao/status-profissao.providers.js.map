@@ -1,0 +1,1 @@
+{"version":3,"file":"status-profissao.providers.js","sourceRoot":"","sources":["../../src/status-profissao/status-profissao.providers.ts"],"names":[],"mappings":";;;AACA,uEAA4D;AAE/C,QAAA,wBAAwB,GAAG;IACtC;QACE,OAAO,EAAE,6BAA6B;QACtC,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CACrC,UAAU,CAAC,aAAa,CAAC,yCAAe,CAAC;QAC3C,MAAM,EAAE,CAAC,qBAAqB,CAAC;KAChC;CACF,CAAC"}

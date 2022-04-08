@@ -1,0 +1,1 @@
+{"version":3,"file":"estado-civil.providers.js","sourceRoot":"","sources":["../../src/estado-civil/estado-civil.providers.ts"],"names":[],"mappings":";;;AACA,+DAAoD;AAEvC,QAAA,oBAAoB,GAAG;IAClC;QACE,OAAO,EAAE,yBAAyB;QAClC,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CACrC,UAAU,CAAC,aAAa,CAAC,iCAAW,CAAC;QACvC,MAAM,EAAE,CAAC,qBAAqB,CAAC;KAChC;CACF,CAAC"}

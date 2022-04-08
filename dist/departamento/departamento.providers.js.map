@@ -1,0 +1,1 @@
+{"version":3,"file":"departamento.providers.js","sourceRoot":"","sources":["../../src/departamento/departamento.providers.ts"],"names":[],"mappings":";;;AACA,+DAAqD;AAExC,QAAA,qBAAqB,GAAG;IACnC;QACE,OAAO,EAAE,yBAAyB;QAClC,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CACrC,UAAU,CAAC,aAAa,CAAC,kCAAY,CAAC;QACxC,MAAM,EAAE,CAAC,qBAAqB,CAAC;KAChC;CACF,CAAC"}
